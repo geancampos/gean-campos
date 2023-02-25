@@ -6,7 +6,6 @@
 }
 
 .video-fundo-pai {
-    background-color: chartreuse;
     position: absolute;
     z-index: -1;
     opacity: 96%;
