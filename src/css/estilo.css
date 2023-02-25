@@ -9,7 +9,8 @@
     position: absolute;
     z-index: -1;
     opacity: 96%;
-    
+    width: 100vw;
+    he
     
     display: flex;
     justify-content: center;
